@@ -1,0 +1,48 @@
+body{
+	background: #C6FFDD;  
+background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  
+background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); 
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 2rem;
+	font-family: 'Anton', sans-serif;
+}
+p{
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+.sub{
+	text-align: center;
+	margin: 5rem;
+    height: 26rem;
+    background: #12c2e9;
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+
+
+}
+
+.app-form{
+	margin: 1rem;
+	padding: 0.3rem;
+	font-size: 1rem;
+	border-radius: 1rem;
+}
+.app-control{
+	text-align: center;
+	width: 15rem;
+	border-radius: 1rem;
+}
+
+#submit{
+	background-color: red;
+    cursor: pointer;
+}
+
+#showdata{
+	font-family: 'Anton', sans-serif;
+}
